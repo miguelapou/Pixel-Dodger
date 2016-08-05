@@ -2,7 +2,7 @@
 
 LOOKOUT! the pixels are coming!
 
-Object: As the name suggests... you have to dodge the incoming pixels! The highest score ever achieved with your browser is saved so you can always come back and try to beat your best (or someone else's) high score.
+Object: As the name suggests... you have to dodge the incoming pixels! The highest score ever achieved with your browser is saved so you can always come back and try to beat your best (or someone else's) high score. 
 
 
 ##How to play
