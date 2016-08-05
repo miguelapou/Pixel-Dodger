@@ -1,0 +1,78 @@
+#canvas {
+  background-color: rgba(0,0,0,0.5);
+  float: left;
+  border-radius: 20px;
+  margin-left: 75px;
+  margin-top: 15px;
+  border: 1px solid white;
+}
+body {
+  background-image: url("../img/wallpaper.jpg");
+}
+h1 {
+  color: deepskyblue;
+  text-align: center;
+  font-family: merkur;
+  font-size: 70px;
+  background-color: rgba(0,0,0,0.5);
+  border: 1px solid white;
+  border-radius: 20px;
+  padding-top: 10px;
+  width: 500px;
+  margin: 0 auto;
+}
+#score {
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  font-size: 20px; 
+  padding-left: 100px;
+  padding-top: 25px;
+  position: absolute;
+}
+@font-face {
+    font-family: merkur;
+    src: url(../font/Merkur.ttf);
+}
+#resetbutton {
+  display: block ;
+  width: 150px;
+  border: 1px solid black;
+  margin-left: 100px;
+  margin-top: 550px;
+  position: absolute;
+
+}
+.table {
+  color: white;
+  width: 148px;
+  text-align: center;
+}
+#highScore {
+  border: 1px solid white;
+  border-radius: 20px;
+  width: 150px;
+  float: right;
+  margin-right: 45px;
+  margin-top: 20px;
+  background-color: rgba(0,0,0,0.5);
+}
+#hScore {
+  font-size: 35px;
+  color: lawngreen;
+  font-weight: bold;
+}
+#thead
+  text-align: center;
+}
+#musicBox {
+  position: relative;
+  margin: auto;
+  width: 500px;
+}
+#author {
+  position: absolute;
+  margin-top: 660px;
+  margin-left: 20px;
+  color: white;
+}
