@@ -6,8 +6,8 @@ Object: As the name suggests... you have to dodge the incoming pixels! The highe
 
 
 ##How to play
-Use your mouse or touchpad left and right to control your avatar (rectangle).
 
+Use your mouse or touchpad left and right to control your avatar (rectangle).
 
 ##Incorporated Technologies
 
